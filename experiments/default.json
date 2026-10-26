@@ -1,0 +1,23 @@
+{
+  "bridge_seconds": 2.0,
+  "bridge_weight": 0.25,
+  "dead_change_penalty": 0.75,
+  "dead_reference": 0.55,
+  "dead_weight": 2.0,
+  "displacement_m": 1.0,
+  "displacement_weight": 0.25,
+  "distance_weight": 0.15,
+  "distant_player_m": 5.0,
+  "fps": 25,
+  "jump_limit_mps": 50.0,
+  "motion_seconds": 0.5,
+  "nearest_weight": 0.5,
+  "proximity_m": 3.0,
+  "slow_mps": 1.0,
+  "smoothing_seconds": 0.5,
+  "speed_weight": 0.35,
+  "tag_weight": 0.25,
+  "team_change_penalty": 1.0,
+  "team_weight": 1.0,
+  "top_k": 3
+}
